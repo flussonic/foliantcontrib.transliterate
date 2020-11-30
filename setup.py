@@ -27,6 +27,8 @@ setup(
         'foliantcontrib.utils.combined_options>=1.0.7',
         'foliantcontrib.utils.preprocessor_ext>=1.0.4',
         'foliantcontrib.utils>=1.0.0',
+        'transliterate>=1.10.0',
+        'python-slugify>=4.0.1',
     ],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
